@@ -30,7 +30,7 @@ const About = () => {
                             <div>
                                 <h3 className='text-2xl font-semibold text-gray-900'>My Journey</h3>
                                 <p className='mt-4 text-lg text-gray-600'>
-                                As a Computer Science undergraduate at Trincomalee Campus, Eastern University of Sri Lanka, I am passionate about Software Engineering and excited to apply my skills in Full-Stack Development. My journey in web development has led me to build projects such as a full-stack food ordering website, a job portal, and a LinkedIn clone using the MERN stack (MongoDB, Express.js, React, Node.js). I am eager to apply my strong programming and problem-solving foundation in a professional internship, collaborate with innovative teams, and contribute to scalable, efficient software solutions while gaining valuable industry experience.
+                                As a Computer Science Undergraduate at Trincomalee Campus, Eastern University of Sri Lanka, I am passionate about Software Engineering and excited to apply my skills in Full-Stack Development. My journey in web development has led me to build projects such as a full-stack food ordering website, a job portal, and a LinkedIn clone using the MERN stack (MongoDB, Express.js, React, Node.js). I am eager to apply my strong programming and problem-solving foundation in a professional internship, collaborate with innovative teams, and contribute to scalable, efficient software solutions while gaining valuable industry experience.
                                 </p>
                                 <img src={MernStack} alt="" className='p-2 rounded-lg w-52 mt-4' />
                             </div>
