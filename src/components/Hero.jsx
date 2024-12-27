@@ -17,7 +17,7 @@ const Hero = () => {
                <h1 className='lg:text-7xl text-4xl font-bold lg:leading-snug'>Hi There, <br />I'm Yuvanshan<span className='text-red-500'> Prabakaran </span></h1>
                <p className='md:text-2xl text-xl mb-4'>Full Stack Developer</p>
                <p className='mb-4'>I am a dedicated Full Stack Developper specializing in Mongo DB, Express Js, React, Next.js, and modern web technologies. I thrive on building visually appealing and highly functional websites that address real-world challenges effectively.</p>
-               <button className='bg-black text-white px-3 py-2 w-max rounded-md'><a href="https://drive.google.com/file/d/1LBMHWpTgTGkvCTcHYiU8JQRCHb5-SRl8/view?usp=sharing" download target='_blank'>Download CV</a></button>
+               <button className='bg-black text-white px-3 py-2 w-max rounded-md'><a href="https://drive.google.com/uc?export=download&id=1HM6q7_97CotmaavqtwOYGPRJ_R5QwsZB" download target='_blank'>Download CV</a></button>
             </div>
             <div className='md:w-1/2 relative flex justify-center items-end'>
                  <img src={hero} alt="" className='lg:h-[90vh] h-96' />
